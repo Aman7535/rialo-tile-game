@@ -16,7 +16,7 @@ Flip the tiles, match the pairs, and beat the timer!
 
 ## 📸 Preview
 <p align="center">
-  <img src="public/screenshot.jpg" alt="Sentient Tile Match Game" width="600"/>
+  <img src="public/screenshotm.jpg" alt="Sentient Tile Match Game" width="600"/>
 </p>
 
 
