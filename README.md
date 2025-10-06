@@ -29,4 +29,4 @@ Flip the tiles, match the pairs, and beat the timer!
 ### Clone the Repository
 ```bash
 git clone https://github.com/YOUR-USERNAME/my-tile-game.git
-cd my-tile-game
+cd rialo-tile-game
