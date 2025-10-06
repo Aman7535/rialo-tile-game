@@ -1,14 +1,14 @@
 import { useState, useEffect } from "react";
 
 const images = [
-  "/pic1.jpg",
-  "/pic2.jpg",
-  "/pic3.jpg",
-  "/pic4.jpg",
-  "/pic5.jpg",
-  "/pic6.jpg",
-  "/pic7.jpg",
-  "/pic8.jpg",
+  "/img1.jpg",
+  "/img2.jpg",
+  "/img3.jpg",
+  "/img4.jpg",
+  "/img5.jpg",
+  "/img6.jpg",
+  "/img7.jpg",
+  "/img8.jpg",
 ];
 
 export default function App() {
@@ -70,7 +70,7 @@ export default function App() {
         <div className="flex flex-col items-center space-y-2 text-center">
           <img src="/logo.png" alt="Game Logo" className="w-16 h-16 sm:w-20 sm:h-20 drop-shadow-lg" />
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold text-cyan-300 drop-shadow-lg">
-            SENTIENT TILE MATCH GAME
+            RIALO TILE MATCH GAME
           </h1>
           <p className="text-lg sm:text-xl font-bold text-white bg-black/30 px-3 py-1 sm:px-4 sm:py-2 rounded-lg shadow-md">
             ⏱ {formatTime(time)}
@@ -124,3 +124,4 @@ export default function App() {
     </div>
   );
 }
+
